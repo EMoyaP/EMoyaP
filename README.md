@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EMoyaP
+- 👀 I am interested in perfecting my programming
+- 🌱 I’m currently learning C and during the summer I will continue with Python, Java and SQL
+- 💞️ I’m looking to collaborate on projects according to my level and gradually climb
+- 📫 How to reach me by mi Linkedin profile. https://www.linkedin.com/in/eugenio-moya/
