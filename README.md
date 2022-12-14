@@ -1,4 +1,4 @@
-### **EMoyaP/EMoyaP** is a ✨ my ✨ repository.
+### **EMoyaP/EMoyaP** is a ✨ my personal✨ repository.
 4
 ​
 5
