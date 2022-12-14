@@ -1,4 +1,4 @@
-### **EMoyaP/EMoyaP** is a ✨ my personal✨ repository.
+### **Hello** this is ✨ my personal✨ gitHub.
 
 - 🔭 I’m currently studdiyng Computer Engineering degree at the UOC
 
