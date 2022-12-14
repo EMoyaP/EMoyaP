@@ -6,6 +6,6 @@
 
 - 👯 I’m looking to work in a consultancy or development company
 
-- 💬 Ask me about me or visit my linkedin profile https://www.linkedin.com/in/eugenio-moya/
+- 💬 Ask me about me or visit my linkedIn profile https://www.linkedin.com/in/eugenio-moya/
 
 
