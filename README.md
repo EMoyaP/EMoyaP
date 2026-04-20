@@ -1,36 +1,49 @@
 # Eugenio Moya
 
-Computer Engineer from Spain focused on software engineering, QA, and practical product development.
+QA Senior Specialist (Banking & Insurance) | ISTQB CTFL | Computer Engineer
 
-I use this profile to publish real projects, improve engineering quality, and document what I am building.
+Ingeniero Informatico con experiencia en calidad en entornos industriales y software, actualmente enfocado en aseguramiento de calidad en entornos bancassurance.
 
-## Professional Focus
+## Professional Profile
 
-- Software development with a strong quality mindset
-- QA-oriented thinking: reliability, validation, and maintainability
-- Applied solutions with clear user value
-- Continuous upskilling across backend, frontend, and data foundations
+- QA Senior Specialist en NTT DATA (Banking & Insurance)
+- Especializacion en testing de backend y validacion de servicios REST
+- Experiencia en entornos complejos y regulados
+- Participacion en comite de integracion e innovacion para aplicacion de IA en procesos de QA
+- Enfoque en calidad como elemento estrategico: estabilidad, eficiencia y confianza
 
-## Core Stack
+## Core Skills
 
-`Java` `Python` `C` `SQL` `Git` `GitHub` `HTML/CSS/JavaScript`
+`QA Strategy` `Backend Testing` `API Testing` `REST Validation` `Test Design` `Defect Management` `Continuous Improvement`
+
+## Technical Stack
+
+`Java` `Python` `SQL` `C` `Git` `GitHub` `HTML/CSS/JavaScript`
 
 ## Featured Projects
 
 - [UGstreaming](https://github.com/EMoyaP/UGstreaming)  
-  Android app (WebView-based) for streaming discovery in Spain, including ranking, provider filtering, and enriched title details.
+  Android app basada en WebView para descubrimiento de peliculas y series en streaming en Espana.
 
 - [UGasolineras](https://github.com/EMoyaP/UGasolineras)  
-  Android app focused on fuel station discovery and comparison workflows.
+  Aplicacion Android orientada a localizacion y comparativa de gasolineras.
 
 - [portalqa](https://github.com/EMoyaP/portalqa)  
-  QA-oriented project work and engineering deliverables.
+  Trabajo orientado a QA y documentacion tecnica.
 
-## Current Direction
+## Current Focus
 
-- Building production-ready Android experiences from web-based logic
-- Improving performance and caching strategies in mobile apps
-- Standardizing documentation, release workflows, and repository quality
+- Calidad de software en banca y seguros
+- Optimizacion de ciclos de prueba y validacion de servicios
+- Incorporacion pragmatica de IA en procesos de QA
+- Desarrollo de productos Android con arquitectura mantenible
+
+## Certifications
+
+- ISTQB CTFL
+- CCNA: Enterprise Networking, Security, and Automation
+- Responsive Web Design
+- English B2
 
 ## Connect
 
