@@ -1,19 +1,37 @@
-# Hi, I'm Eugenio Moya 👋
+# Eugenio Moya
 
-Computer Engineer from Spain, passionate about software development, QA, and technology-driven problem solving.
+Computer Engineer from Spain focused on software engineering, QA, and practical product development.
 
-I use GitHub to share projects, keep improving my technical skills, and showcase my work and interests in software engineering.
+I use this profile to publish real projects, improve engineering quality, and document what I am building.
 
-## About me
-- 💻 Computer Engineer with a strong interest in software development and quality assurance
-- 🌱 Continuously improving my skills in technologies such as C, Java, Python, R, and SQL
-- 🚀 Interested in building practical, useful, and well-structured solutions
-- 🤝 Open to professional opportunities in consulting, QA, and software development
+## Professional Focus
 
-## Technologies
-C · Java · Python · R · SQL · Git · GitHub
+- Software development with a strong quality mindset
+- QA-oriented thinking: reliability, validation, and maintainability
+- Applied solutions with clear user value
+- Continuous upskilling across backend, frontend, and data foundations
 
-## Connect with me
+## Core Stack
+
+`Java` `Python` `C` `SQL` `Git` `GitHub` `HTML/CSS/JavaScript`
+
+## Featured Projects
+
+- [UGstreaming](https://github.com/EMoyaP/UGstreaming)  
+  Android app (WebView-based) for streaming discovery in Spain, including ranking, provider filtering, and enriched title details.
+
+- [UGasolineras](https://github.com/EMoyaP/UGasolineras)  
+  Android app focused on fuel station discovery and comparison workflows.
+
+- [portalqa](https://github.com/EMoyaP/portalqa)  
+  QA-oriented project work and engineering deliverables.
+
+## Current Direction
+
+- Building production-ready Android experiences from web-based logic
+- Improving performance and caching strategies in mobile apps
+- Standardizing documentation, release workflows, and repository quality
+
+## Connect
+
 - LinkedIn: [linkedin.com/in/eugenio-moya](https://www.linkedin.com/in/eugenio-moya/)
-
-
