@@ -2,15 +2,15 @@
 
 QA Senior Specialist (Banking & Insurance) | ISTQB CTFL | Computer Engineer
 
-Ingeniero Informatico con experiencia en calidad en entornos industriales y software, actualmente enfocado en aseguramiento de calidad en entornos bancassurance.
+Computer Engineer with experience in quality assurance across both industrial and software environments, currently focused on software quality in bancassurance contexts.
 
 ## Professional Profile
 
-- QA Senior Specialist en NTT DATA (Banking & Insurance)
-- Especializacion en testing de backend y validacion de servicios REST
-- Experiencia en entornos complejos y regulados
-- Participacion en comite de integracion e innovacion para aplicacion de IA en procesos de QA
-- Enfoque en calidad como elemento estrategico: estabilidad, eficiencia y confianza
+- QA Senior Specialist at NTT DATA (Banking & Insurance)
+- Specialized in backend testing and REST service validation
+- Experience working in complex and regulated environments
+- Contributor to an integration and innovation committee focused on applying AI to QA processes
+- Strong quality mindset centered on stability, efficiency, and trust
 
 ## Core Skills
 
@@ -23,20 +23,20 @@ Ingeniero Informatico con experiencia en calidad en entornos industriales y soft
 ## Featured Projects
 
 - [UGstreaming](https://github.com/EMoyaP/UGstreaming)  
-  Android app basada en WebView para descubrimiento de peliculas y series en streaming en Espana.
+  WebView-based Android app for discovering movies and series available on streaming platforms in Spain.
 
 - [UGasolineras](https://github.com/EMoyaP/UGasolineras)  
-  Aplicacion Android orientada a localizacion y comparativa de gasolineras.
+  Android app focused on gas station discovery and comparison workflows.
 
 - [portalqa](https://github.com/EMoyaP/portalqa)  
-  Trabajo orientado a QA y documentacion tecnica.
+  QA-oriented project work and technical documentation.
 
 ## Current Focus
 
-- Calidad de software en banca y seguros
-- Optimizacion de ciclos de prueba y validacion de servicios
-- Incorporacion pragmatica de IA en procesos de QA
-- Desarrollo de productos Android con arquitectura mantenible
+- Software quality for banking and insurance products
+- Test cycle optimization and service-level validation
+- Practical AI adoption in QA workflows
+- Building maintainable Android products
 
 ## Certifications
 
