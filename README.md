@@ -1,50 +1,226 @@
-# Eugenio Moya
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Eugenio Moya Pérez — Computer Engineer, Quality Engineering and Applied AI">
+</p>
 
-QA Senior Specialist (Banking & Insurance) | ISTQB CTFL | Computer Engineer
+<p align="center">
+  <a href="https://www.linkedin.com/in/eugenio-moya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Eugenio_Moya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/EMoyaP?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-Android_%C2%B7_AI_%C2%B7_QA-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+  <img src="https://img.shields.io/badge/Spain_%2F_France-International_Profile-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Spain and France">
+</p>
 
-Computer Engineer with experience in quality assurance across both industrial and software environments, currently focused on software quality in bancassurance contexts.
+<p align="center">
+  <strong>Computer Engineer — Information Technologies</strong><br>
+  Senior QA Specialist in Banking & Insurance · Applied AI and business integration since GPT-3 (2020)
+</p>
 
-## Professional Profile
+<p align="center">
+  I connect <strong>software quality</strong>, <strong>engineering</strong> and
+  <strong>responsible AI adoption</strong> to turn emerging technology into reliable products and measurable business value.
+</p>
 
-- QA Senior Specialist at NTT DATA (Banking & Insurance)
-- Specialized in backend testing and REST service validation
-- Experience working in complex and regulated environments
-- Contributor to an integration and innovation committee focused on applying AI to QA processes
-- Strong quality mindset centered on stability, efficiency, and trust
+---
 
-## Core Skills
+## Professional profile
 
-`QA Strategy` `Backend Testing` `API Testing` `REST Validation` `Test Design` `Defect Management` `Continuous Improvement`
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🛡️ Quality Engineering</h3>
+      <p align="center">QA strategy, backend and API validation, test design, defect management and continuous improvement in complex, regulated environments.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 Applied AI</h3>
+      <p align="center">Hands-on work with generative and multimodal AI since 2020: local LLMs, vision, speech, model evaluation and privacy-first inference.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🏦 Business Integration</h3>
+      <p align="center">Bancassurance specialization and practical integration of AI into QA workflows, delivery processes and consulting business models.</p>
+    </td>
+  </tr>
+</table>
 
-## Technical Stack
+> **Current role:** Senior QA Specialist at **NTT DATA · Banking & Insurance**  
+> **Engineering background:** Computer Engineering, Information Technologies track  
+> **AI journey:** started with **GPT-3 in 2020** and evolved towards local, multimodal and product-oriented AI
 
-`Java` `Python` `SQL` `C` `Git` `GitHub` `HTML/CSS/JavaScript`
+## Selected engineering work
 
-## Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/EMoyaP/UGAssistant">🤖 UGAssistant</a></h3>
+      <p>Local multimodal assistant for Windows and Raspberry Pi 5: vision, gestures, wake words, Whisper, Piper and Gemma through Ollama.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Local_AI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/FastAPI-WebSockets-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/Privacy-On_device-A3E635?style=flat-square" alt="On-device">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/EMoyaP/UGscaler">📷 UGscaler</a></h3>
+      <p>Android photo and video-frame restoration with temporal fusion, Real-ESRGAN, NCNN, ONNX Runtime and optional CodeFormer faces.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android-Java-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+        <img src="https://img.shields.io/badge/Computer_Vision-Real--ESRGAN-22D3EE?style=flat-square" alt="Computer Vision">
+        <img src="https://img.shields.io/github/v/release/EMoyaP/UGscaler?style=flat-square&label=release&color=8B5CF6" alt="Release">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/EMoyaP/UGscan">📡 UGscan</a></h3>
+      <p>Android Wi-Fi diagnostics with live network metrics, speed testing and ARCore-tagged measurements over real surfaces.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/ARCore-Spatial_QA-0F9D58?style=flat-square&logo=google&logoColor=white" alt="ARCore">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/EMoyaP/UGasolineras">⚡ UGasolineras</a></h3>
+      <p>Android mobility app for nearby fuel stations and EV charging points, with maps, intelligent cache and Android Auto foundations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android-Mobility-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+        <img src="https://img.shields.io/badge/Maps-EV_%26_Fuel-F59E0B?style=flat-square" alt="Mobility">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/EMoyaP/UGstreaming">🎬 UGstreaming</a></h3>
+      <p>Multilingual Android discovery experience for films and series in Spain, combining catalogue data, provider availability and AI summaries.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-Material_3-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/AI-Content_enrichment-EC4899?style=flat-square" alt="AI">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/EMoyaP/UGextractor">🧰 UGextractor</a></h3>
+      <p>Portable Windows application for controlled media workflows across websites, local storage and Telegram channels.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Windows-Portable-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
+        <img src="https://img.shields.io/badge/Automation-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+      </p>
+    </td>
+  </tr>
+</table>
 
-- [UGstreaming](https://github.com/EMoyaP/UGstreaming)  
-  WebView-based Android app for discovering movies and series available on streaming platforms in Spain.
+## Capability map
 
-- [UGasolineras](https://github.com/EMoyaP/UGasolineras)  
-  Android app focused on gas station discovery and comparison workflows.
+<p>
+  <img src="https://img.shields.io/badge/QA_Strategy-111827?style=for-the-badge" alt="QA Strategy">
+  <img src="https://img.shields.io/badge/API_%26_Backend_Testing-111827?style=for-the-badge" alt="API and Backend Testing">
+  <img src="https://img.shields.io/badge/ISTQB_CTFL-111827?style=for-the-badge" alt="ISTQB CTFL">
+  <img src="https://img.shields.io/badge/Bancassurance-111827?style=for-the-badge" alt="Bancassurance">
+</p>
 
-- [portalqa](https://github.com/EMoyaP/portalqa)  
-  QA-oriented project work and technical documentation.
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-0F766E?style=for-the-badge" alt="Generative AI">
+  <img src="https://img.shields.io/badge/Multimodal_AI-0F766E?style=for-the-badge" alt="Multimodal AI">
+  <img src="https://img.shields.io/badge/Local_LLMs-0F766E?style=for-the-badge" alt="Local LLMs">
+  <img src="https://img.shields.io/badge/AI_Business_Integration-0F766E?style=for-the-badge" alt="AI Business Integration">
+</p>
 
-## Current Focus
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111827" alt="C">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+</p>
 
-- Software quality for banking and insurance products
-- Test cycle optimization and service-level validation
-- Practical AI adoption in QA workflows
-- Building maintainable Android products
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
-## Certifications
+## Engineering trajectory
 
-- ISTQB CTFL
-- CCNA: Enterprise Networking, Security, and Automation
-- Responsive Web Design
-- English B2
+My public repositories show both current product work and the foundations behind it:
 
-## Connect
+- **Current products:** local and on-device AI, Android applications, computer vision, networking, mobility and automation.
+- **Quality mindset:** explicit limitations, reproducible builds, local-first privacy, model checksums, fallback paths and non-commercial licensing.
+- **Foundations:** procedural programming in C, object-oriented design in Java and statistical analysis in R.
 
-- LinkedIn: [linkedin.com/in/eugenio-moya](https://www.linkedin.com/in/eugenio-moya/)
+<details>
+  <summary><strong>Explore the complete public learning and engineering archive</strong></summary>
+  <br>
+
+  **C · Fundamentals and programming practices**
+
+  [`C_FP_PEC1`](https://github.com/EMoyaP/C_FP_PEC1_20211) ·
+  [`C_FP_PEC2`](https://github.com/EMoyaP/C_FP_PEC2_20211) ·
+  [`C_FP_PEC3`](https://github.com/EMoyaP/C_FP_PEC3_20211) ·
+  [`C_FP_PEC4`](https://github.com/EMoyaP/C_FP_PEC4_20211) ·
+  [`C_FP_PEC5`](https://github.com/EMoyaP/C_FP_PEC5_20211) ·
+  [`C_FP_PEC6`](https://github.com/EMoyaP/C_FP_PEC6_20211) ·
+  [`C_FP_PEC7`](https://github.com/EMoyaP/C_FP_PEC7_20211) ·
+  [`C_FP_PEC8`](https://github.com/EMoyaP/C_FP_PEC8_20211) ·
+  [`C_FP_PR1`](https://github.com/EMoyaP/C_FP_PR1_20211) ·
+  [`C_FP_PR2`](https://github.com/EMoyaP/C_FP_PR2_20211)
+
+  **C · Programming projects**
+
+  [`C_PP_PEC1`](https://github.com/EMoyaP/C_PP_PEC1_20212) ·
+  [`C_PP_PEC2`](https://github.com/EMoyaP/C_PP_PEC2_20212) ·
+  [`C_PP_PR1`](https://github.com/EMoyaP/C_PP_PR1_20212) ·
+  [`C_PP_PR2`](https://github.com/EMoyaP/C_PP_PR2_20212) ·
+  [`C_PP_PR3`](https://github.com/EMoyaP/C_PP_PR3_20212)
+
+  **Java · Object-oriented design**
+
+  [`JAVA_DPOO_PEC1`](https://github.com/EMoyaP/JAVA_DPOO_PEC1_20221) ·
+  [`JAVA_DPOO_PEC2`](https://github.com/EMoyaP/JAVA_DPOO_PEC2_20221) ·
+  [`JAVA_DPOO_PEC3`](https://github.com/EMoyaP/JAVA_DPOO_PEC3_20221) ·
+  [`JAVA_DPOO_PEC4`](https://github.com/EMoyaP/JAVA_DPOO_PEC4_20221) ·
+  [`JAVA_DPOO_PR2`](https://github.com/EMoyaP/JAVA_DPOO_PR2_20221)
+
+  **R · Statistics**
+
+  [`R_ESTADISTICA_PEC1`](https://github.com/EMoyaP/R_ESTADISTICA_PEC1_20221) ·
+  [`R_ESTADISTICA_PEC2`](https://github.com/EMoyaP/R_ESTADISTICA_PEC2_20221) ·
+  [`R_ESTADISTICA_PEC3`](https://github.com/EMoyaP/R_ESTADISTICA_PEC3_20221) ·
+  [`R_ESTADISTICA_PEC4`](https://github.com/EMoyaP/R_ESTADISTICA_PEC4_20221)
+
+  **Curated reference fork**
+
+  [`Chuletas`](https://github.com/EMoyaP/Chuletas) · command and development reference material.
+</details>
+
+## GitHub activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EMoyaP&show_icons=true&hide_border=true&rank_icon=github&title_color=22D3EE&icon_color=A3E635&text_color=64748B&bg_color=00000000" alt="Eugenio Moya GitHub statistics">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMoyaP&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=64748B&bg_color=00000000" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EMoyaP&bg_color=00000000&color=64748B&line=06B6D4&point=A3E635&area=true&hide_border=true" alt="GitHub contribution activity">
+</p>
+
+## Credentials and focus
+
+- **ISTQB Certified Tester Foundation Level**
+- **CCNA: Enterprise Networking, Security and Automation**
+- **Responsive Web Design**
+- **English B2**
+- Current focus: AI-enhanced QA, trustworthy automation, local multimodal systems and quality engineering for banking and insurance.
+
+## Contact
+
+<p align="center">
+  <strong>Interested in quality engineering, responsible AI adoption or product-focused experimentation?</strong><br><br>
+  <a href="https://www.linkedin.com/in/eugenio-moya/">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Engineering with quality · AI with purpose · Innovation with accountability</sub>
+</p>

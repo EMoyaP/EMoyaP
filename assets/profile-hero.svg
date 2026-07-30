@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Eugenio Moya Pérez</title>
+  <desc id="desc">Computer Engineer, Quality Engineering and Applied AI</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="48%" stop-color="#0b1f35"/>
+      <stop offset="100%" stop-color="#12324a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a3e635"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#8edff0" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1130" cy="55" r="260" fill="url(#glow)"/>
+  <circle cx="112" cy="330" r="210" fill="url(#glow)" opacity=".55"/>
+
+  <g opacity=".7" fill="none" stroke-linecap="round">
+    <path d="M930 64h118l42 42h92" stroke="#22d3ee" stroke-width="2"/>
+    <path d="M1002 284h92l35-35h76" stroke="#a3e635" stroke-width="2"/>
+    <path d="M1030 114l55 55h105" stroke="#38bdf8" stroke-opacity=".5"/>
+    <circle cx="930" cy="64" r="5" fill="#22d3ee" stroke="none"/>
+    <circle cx="1205" cy="249" r="5" fill="#a3e635" stroke="none"/>
+    <circle cx="1190" cy="169" r="4" fill="#38bdf8" stroke="none"/>
+  </g>
+
+  <rect x="72" y="54" width="245" height="34" rx="17" fill="#102a3f" stroke="#22d3ee" stroke-opacity=".5"/>
+  <circle cx="94" cy="71" r="5" fill="#a3e635" filter="url(#softGlow)"/>
+  <text x="110" y="77" fill="#d7f7fd" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.2">ENGINEERING PROFILE</text>
+
+  <text x="70" y="163" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="1">EUGENIO MOYA PÉREZ</text>
+  <rect x="72" y="185" width="690" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="230" fill="#b9d7e6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.5">COMPUTER ENGINEER  ·  QUALITY ENGINEERING  ·  APPLIED AI</text>
+  <text x="72" y="269" fill="#7fa6b9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18">Bancassurance  ·  Software Quality  ·  AI Business Integration</text>
+
+  <g transform="translate(72 298)">
+    <rect width="190" height="35" rx="17.5" fill="#0f3144" stroke="#22d3ee" stroke-opacity=".42"/>
+    <text x="95" y="23" text-anchor="middle" fill="#d9fbff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="600">AI JOURNEY · 2020</text>
+    <rect x="204" width="164" height="35" rx="17.5" fill="#173324" stroke="#a3e635" stroke-opacity=".42"/>
+    <text x="286" y="23" text-anchor="middle" fill="#eaffc7" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="600">SPAIN / FRANCE</text>
+  </g>
+
+  <g transform="translate(1015 124)">
+    <circle cx="82" cy="82" r="77" fill="#091827" stroke="url(#accent)" stroke-width="3"/>
+    <circle cx="82" cy="82" r="61" fill="none" stroke="#2b5266" stroke-width="1" stroke-dasharray="3 8"/>
+    <path d="M47 92l21 21 50-59" fill="none" stroke="url(#accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)"/>
+    <path d="M82 16v14M82 134v14M16 82h14M134 82h14" stroke="#6fb2c9" stroke-width="2" opacity=".55"/>
+  </g>
+</svg>
