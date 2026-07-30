@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">Eugenio Moya Pérez</title>
-  <desc id="desc">Computer Engineer, Quality Engineering and Applied AI</desc>
+  <desc id="desc">Computer Engineer, Quality Assurance and Applied AI</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#07111f"/>
@@ -48,7 +48,7 @@
 
   <text x="70" y="163" fill="#f8fafc" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="1">EUGENIO MOYA PÉREZ</text>
   <rect x="72" y="185" width="690" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="72" y="230" fill="#b9d7e6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.5">COMPUTER ENGINEER  ·  QUALITY ENGINEERING  ·  APPLIED AI</text>
+  <text x="72" y="230" fill="#b9d7e6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1.5">COMPUTER ENGINEER  ·  QUALITY ASSURANCE  ·  APPLIED AI</text>
   <text x="72" y="269" fill="#7fa6b9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18">Bancassurance  ·  Software Quality  ·  AI Business Integration</text>
 
   <g transform="translate(72 298)">

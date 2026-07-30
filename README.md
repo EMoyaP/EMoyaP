@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Eugenio Moya Pérez — Computer Engineer, Quality Engineering and Applied AI">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Eugenio Moya Pérez — Computer Engineer, Quality Assurance and Applied AI">
 </p>
 
 <p align="center">
