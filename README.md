@@ -38,14 +38,34 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🏦 Business Integration</h3>
-      <p align="center">Bancassurance specialization and practical integration of AI into QA workflows, delivery processes and consulting business models.</p>
+      <p align="center">Bancassurance specialization, participation in the Quality Services innovation and AI adoption committee, and practical integration of AI into delivery and consulting models.</p>
     </td>
   </tr>
 </table>
 
-> **Current role:** Senior QA Specialist at **NTT DATA · Banking & Insurance**  
-> **Engineering background:** Computer Engineering, Information Technologies track  
+> **Current role:** Senior QA Specialist at **NTT DATA · Banking & Insurance**<br>
+> **Innovation:** contributor to the **Innovation & AI Adoption Committee in Quality Services**<br>
+> **Engineering background:** Computer Engineering, Information Technologies track · **Universitat Oberta de Catalunya (UOC)**<br>
 > **AI journey:** started with **GPT-3 in 2020** and evolved towards local, multimodal and product-oriented AI
+
+## Academic capstone · PortalQA
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🧪 PortalQA — Quality Engineering Operations Hub</h3>
+      <p><strong>Computer Engineering final degree project (UOC, 2024/25)</strong> focused on centralizing everyday QA workflows in a controlled web environment.</p>
+      <p>The prototype combines role-based access, test-data generation for Spanish identifiers and IBANs, realistic address generation, visual text comparison with PDF export, date calculations, employee administration and configurable tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TFG-UOC-005EB8?style=flat-square" alt="UOC final degree project">
+        <img src="https://img.shields.io/badge/Domain-Quality_Engineering-22D3EE?style=flat-square" alt="Quality Engineering">
+        <img src="https://img.shields.io/badge/Stack-PHP_%C2%B7_MySQL_%C2%B7_JavaScript-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP MySQL JavaScript">
+        <img src="https://img.shields.io/badge/Source-Private_Academic_Project-64748B?style=flat-square" alt="Private academic repository">
+      </p>
+      <p><strong>Modernization direction:</strong> PHP 8, hardened authentication and sessions, CSRF protection, automated API/security tests, CI and containerized delivery. It is a practical bridge between my academic foundation and my current QA and AI-integration work.</p>
+    </td>
+  </tr>
+</table>
 
 ## Selected engineering work
 
@@ -208,8 +228,11 @@ My public repositories show both current product work and the foundations behind
 
 - **ISTQB Certified Tester Foundation Level**
 - **CCNA: Enterprise Networking, Security and Automation**
+- **Postman API Fundamentals Student Expert**
+- **GenAI Academy: Yellow Belt Level 1**
 - **Responsive Web Design**
 - **English B2**
+- **Currently preparing:** ISTQB Certified Tester AI Testing (CT-AI)
 - Current focus: AI-enhanced QA, trustworthy automation, local multimodal systems and quality engineering for banking and insurance.
 
 ## Contact
