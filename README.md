@@ -14,7 +14,7 @@
 
 <p align="center">
   <strong>Computer Engineer — Information Technologies</strong><br>
-  Senior QA Specialist in Banking & Insurance · Applied AI and business integration since GPT-3 (2020)
+  Software Quality Assurance in Banking & Insurance · Applied AI and business integration since GPT-3 (2020)
 </p>
 
 <p align="center">
