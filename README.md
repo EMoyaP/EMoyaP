@@ -29,12 +29,12 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🛡️ Quality Engineering</h3>
-      <p align="center">QA strategy, backend and API validation, test design, defect management and continuous improvement in complex, regulated environments.</p>
+      <h3 align="center">🛡️ Quality Assurance</h3>
+      <p align="center">QA strategy, functional, backend and API validation, hybrid manual/automated testing, defect management and continuous improvement in complex, regulated environments.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🧠 Applied AI</h3>
-      <p align="center">Hands-on work with generative and multimodal AI since 2020: local LLMs, vision, speech, model evaluation and privacy-first inference.</p>
+      <p align="center">Hands-on work with generative, agentic and multimodal AI since 2020: local models, vision, speech, evaluation and privacy-first inference.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🏦 Business Integration</h3>
@@ -43,22 +43,24 @@
   </tr>
 </table>
 
-> **Current role:** Senior QA Specialist at **NTT DATA · Banking & Insurance**<br>
+> **Current role:** Software Quality Assurance · Senior QA Specialist at **NTT DATA · Banking & Insurance**<br>
 > **Innovation:** contributor to the **Innovation & AI Adoption Committee in Quality Services**<br>
 > **Engineering background:** Computer Engineering, Information Technologies track · **Universitat Oberta de Catalunya (UOC)**<br>
-> **AI journey:** started with **GPT-3 in 2020** and evolved towards local, multimodal and product-oriented AI
+> **AI journey:** started with **GPT-3 in 2020** and evolved towards generative, agentic, local and product-oriented AI<br>
+> **Knowledge enablement:** employee training in practical generative and agentic AI adoption during 2026<br>
+> **International environment:** current project delivered in English · ongoing French immersion at home
 
 ## Academic capstone · PortalQA
 
 <table>
   <tr>
     <td valign="top">
-      <h3>🧪 PortalQA — Quality Engineering Operations Hub</h3>
+      <h3>🧪 PortalQA — Quality Assurance Operations Hub</h3>
       <p><strong>Computer Engineering final degree project (UOC, 2024/25)</strong> focused on centralizing everyday QA workflows in a controlled web environment.</p>
       <p>The prototype combines role-based access, test-data generation for Spanish identifiers and IBANs, realistic address generation, visual text comparison with PDF export, date calculations, employee administration and configurable tools.</p>
       <p>
         <img src="https://img.shields.io/badge/TFG-UOC-005EB8?style=flat-square" alt="UOC final degree project">
-        <img src="https://img.shields.io/badge/Domain-Quality_Engineering-22D3EE?style=flat-square" alt="Quality Engineering">
+        <img src="https://img.shields.io/badge/Domain-Quality_Assurance-22D3EE?style=flat-square" alt="Quality Assurance">
         <img src="https://img.shields.io/badge/Stack-PHP_%C2%B7_MySQL_%C2%B7_JavaScript-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP MySQL JavaScript">
         <img src="https://img.shields.io/badge/Source-Private_Academic_Project-64748B?style=flat-square" alt="Private academic repository">
       </p>
@@ -82,10 +84,11 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/EMoyaP/UGscaler">📷 UGscaler</a></h3>
-      <p>Android photo and video-frame restoration with temporal fusion, Real-ESRGAN, NCNN, ONNX Runtime and optional CodeFormer faces.</p>
+      <p>Privacy-first Android photo restoration with BSRGAN/NCNN, context-aware cropping, measurable quality gates and optional local Stable Diffusion for image-to-image and prompt generation.</p>
       <p>
         <img src="https://img.shields.io/badge/Android-Java-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-        <img src="https://img.shields.io/badge/Computer_Vision-Real--ESRGAN-22D3EE?style=flat-square" alt="Computer Vision">
+        <img src="https://img.shields.io/badge/AI-On_device-22D3EE?style=flat-square" alt="On-device AI">
+        <a href="https://github.com/EMoyaP/UGscaler/releases/latest"><img src="https://img.shields.io/badge/APK-Download-A3E635?style=flat-square&logo=android&logoColor=111827" alt="Download UGscaler APK"></a>
         <img src="https://img.shields.io/github/v/release/EMoyaP/UGscaler?style=flat-square&label=release&color=8B5CF6" alt="Release">
       </p>
     </td>
@@ -132,6 +135,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/QA_Strategy-111827?style=for-the-badge" alt="QA Strategy">
+  <img src="https://img.shields.io/badge/Manual_%26_Automated_Testing-111827?style=for-the-badge" alt="Manual and automated testing">
   <img src="https://img.shields.io/badge/API_%26_Backend_Testing-111827?style=for-the-badge" alt="API and Backend Testing">
   <img src="https://img.shields.io/badge/ISTQB_CTFL-111827?style=for-the-badge" alt="ISTQB CTFL">
   <img src="https://img.shields.io/badge/Bancassurance-111827?style=for-the-badge" alt="Bancassurance">
@@ -139,9 +143,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-0F766E?style=for-the-badge" alt="Generative AI">
+  <img src="https://img.shields.io/badge/Agentic_AI-0F766E?style=for-the-badge" alt="Agentic AI">
   <img src="https://img.shields.io/badge/Multimodal_AI-0F766E?style=for-the-badge" alt="Multimodal AI">
   <img src="https://img.shields.io/badge/Local_LLMs-0F766E?style=for-the-badge" alt="Local LLMs">
   <img src="https://img.shields.io/badge/AI_Business_Integration-0F766E?style=for-the-badge" alt="AI Business Integration">
+  <img src="https://img.shields.io/badge/AI_Enablement_%26_Training-0F766E?style=for-the-badge" alt="AI enablement and training">
 </p>
 
 <p>
@@ -165,7 +171,7 @@
 My public repositories show both current product work and the foundations behind it:
 
 - **Current products:** local and on-device AI, Android applications, computer vision, networking, mobility and automation.
-- **Quality mindset:** explicit limitations, reproducible builds, local-first privacy, model checksums, fallback paths and non-commercial licensing.
+- **Quality mindset:** acceptance criteria, measurable quality gates, reproducible builds, local-first privacy, model checksums, fallback paths and non-commercial licensing.
 - **Foundations:** procedural programming in C, object-oriented design in Java and statistical analysis in R.
 
 <details>
@@ -231,9 +237,10 @@ My public repositories show both current product work and the foundations behind
 - **Postman API Fundamentals Student Expert**
 - **GenAI Academy: Yellow Belt Level 1**
 - **Responsive Web Design**
-- **English B2**
+- **English B2** · current international project delivered in English
+- **French** · ongoing home-immersion environment
 - **Currently preparing:** ISTQB Certified Tester AI Testing (CT-AI)
-- Current focus: AI-enhanced QA, trustworthy automation, local multimodal systems and quality engineering for banking and insurance.
+- Current focus: AI-enhanced QA, trustworthy automation, local multimodal systems and quality assurance for banking and insurance.
 
 ## Contact
 
