@@ -73,6 +73,19 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/EMoyaP/BMW-E87-iDrive">🚘 BMW E87 iDrive</a></h3>
+      <p>Independent Android 15 infotainment interface for a BMW E87 head unit, built as a normal launcher application with an OEM-inspired 1280×720 UI, public Android media and vehicle data sources, GPS fuel-station intelligence, and guided passive diagnostics for hardware validation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android_15-Java-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 15 and Java">
+        <img src="https://img.shields.io/badge/Automotive-Passive_diagnostics-2563EB?style=flat-square" alt="Passive automotive diagnostics">
+        <img src="https://img.shields.io/badge/Safety-No_CAN_writes-A3E635?style=flat-square" alt="No CAN writes">
+        <a href="https://github.com/EMoyaP/BMW-E87-iDrive/actions"><img src="https://img.shields.io/github/actions/workflow/status/EMoyaP/BMW-E87-iDrive/android.yml?branch=main&style=flat-square&label=build" alt="Android build status"></a>
+      </p>
+      <p><sub>Independent, non-commercial project; not affiliated with or endorsed by BMW AG. BMW, iDrive, the BMW emblem and model designations belong to their respective rights holders. See the repository <a href="https://github.com/EMoyaP/BMW-E87-iDrive/blob/main/NOTICE.md">notices and attributions</a>.</sub></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/EMoyaP/UGAssistant">🤖 UGAssistant</a></h3>
       <p>Local multimodal assistant for Windows and Raspberry Pi 5: vision, gestures, wake words, Whisper, Piper and Gemma through Ollama.</p>
@@ -170,7 +183,8 @@
 
 My public repositories show both current product work and the foundations behind it:
 
-- **Current products:** local and on-device AI, Android applications, computer vision, networking, mobility and automation.
+- **Current products:** local and on-device AI, Android applications, automotive infotainment, computer vision,
+  networking, mobility and automation.
 - **Quality mindset:** acceptance criteria, measurable quality gates, reproducible builds, local-first privacy, model checksums, fallback paths and non-commercial licensing.
 - **Foundations:** procedural programming in C, object-oriented design in Java and statistical analysis in R.
 
