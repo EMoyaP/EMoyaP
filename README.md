@@ -75,9 +75,9 @@
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/EMoyaP/BMW-E87-iDrive">🚘 BMW E87 iDrive</a></h3>
-      <p>Independent Android 15 infotainment interface for a BMW E87 head unit, built as a normal launcher application with an OEM-inspired 1280×720 UI, public Android media and vehicle data sources, GPS fuel-station intelligence, and guided passive diagnostics for hardware validation.</p>
+      <p>Independent infotainment application for a BMW E87 head unit, validated on its Rockchip RK3326/API 30 hardware. It runs inside the OEM launcher and combines a 1280×720 iDrive-inspired UI, Android media and GPS fuel-station data, contextual vehicle status, and guided read-only USB diagnostics for CAN/Jancar integration and firmware identification.</p>
       <p>
-        <img src="https://img.shields.io/badge/Android_15-Java-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 15 and Java">
+        <img src="https://img.shields.io/badge/Android_API_30--35-Java-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android API 30 to 35 and Java">
         <img src="https://img.shields.io/badge/Automotive-Passive_diagnostics-2563EB?style=flat-square" alt="Passive automotive diagnostics">
         <img src="https://img.shields.io/badge/Safety-No_CAN_writes-A3E635?style=flat-square" alt="No CAN writes">
         <a href="https://github.com/EMoyaP/BMW-E87-iDrive/actions"><img src="https://img.shields.io/github/actions/workflow/status/EMoyaP/BMW-E87-iDrive/android.yml?branch=main&style=flat-square&label=build" alt="Android build status"></a>
