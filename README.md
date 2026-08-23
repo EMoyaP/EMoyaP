@@ -75,13 +75,15 @@
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/EMoyaP/BMW-E87-iDrive">🚘 BMW E87 iDrive</a></h3>
-      <p>Independent infotainment application for a BMW E87 head unit, validated on its Rockchip RK3326/API 30 hardware. Version 1.13.2 runs inside the OEM launcher and combines a 1280×720 iDrive-inspired UI, verified read-only Jancar vehicle/radio adapters, conditional MediaSession controls, GPS-aware official fuel-price data over any Android-validated network, and bounded USB-exportable runtime diagnostics for physical-head-unit QA.</p>
+      <p>Independent Android infotainment application for a BMW E87 head unit, validated on Rockchip RK3326/API 30 hardware and run as a normal app inside the OEM launcher. Version 1.15.1 combines an OEM-inspired 1280×720 UI, verified read-only Jancar vehicle/radio adapters, GPS-validated speed, local OSM speed limits for Alicante/Murcia/Valencia/Albacete, official fuel-price caching over Android-published networks and guided passive diagnostics for physical-head-unit QA. Each province refresh is independently limited to one successful update per 24 hours.</p>
       <p>
         <img src="https://img.shields.io/badge/Android_API_30--35-Java-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android API 30 to 35 and Java">
-        <img src="https://img.shields.io/badge/Version-1.13.2-8B5CF6?style=flat-square" alt="Version 1.13.2">
+        <img src="https://img.shields.io/badge/Version-1.15.1-8B5CF6?style=flat-square" alt="Version 1.15.1">
         <img src="https://img.shields.io/badge/Jancar-Read_only_adapter-2563EB?style=flat-square" alt="Read-only Jancar adapter">
+        <img src="https://img.shields.io/badge/Automotive-Passive_diagnostics-2563EB?style=flat-square" alt="Passive automotive diagnostics">
         <img src="https://img.shields.io/badge/Safety-No_CAN_writes-A3E635?style=flat-square" alt="No CAN writes">
         <a href="https://github.com/EMoyaP/BMW-E87-iDrive/actions"><img src="https://img.shields.io/github/actions/workflow/status/EMoyaP/BMW-E87-iDrive/android.yml?branch=main&style=flat-square&label=build" alt="Android build status"></a>
+        <a href="https://github.com/EMoyaP/BMW-E87-iDrive/releases/tag/v1.15.1"><img src="https://img.shields.io/badge/APK-v1.15.1-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Download iDrive v1.15.1 APK"></a>
       </p>
       <p><sub>Independent, non-commercial project; not affiliated with or endorsed by BMW AG. BMW, iDrive, the BMW emblem and model designations belong to their respective rights holders. See the repository <a href="https://github.com/EMoyaP/BMW-E87-iDrive/blob/main/NOTICE.md">notices and attributions</a>.</sub></p>
     </td>
