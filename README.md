@@ -75,15 +75,15 @@
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/EMoyaP/BMW-E87-iDrive">🚘 BMW E87 iDrive</a></h3>
-      <p>Independent Android infotainment application for a BMW E87 head unit, validated on Rockchip RK3326/API 30 hardware and run as a normal app inside the OEM launcher. Version 1.16.2 combines an OEM-inspired 1280×720 UI, GPS-validated speed, offline OSM road limits, a local DGT fixed/section-camera inventory, official Spanish fuel-price caching and verified read-only Jancar vehicle/radio adapters. Its passive USB toolkit records every available source and now offers explicit opt-in GPS-coordinate logging for reproducible physical-head-unit QA, without transmitting CAN or writing UART.</p>
+      <p>Independent Android infotainment application for a BMW E87 head unit, validated on Rockchip RK3326/API 30 hardware and run as a normal app inside the OEM launcher. Version 1.24.2 combines an OEM-inspired 1280×720 UI, GPS-backed speed, offline road-limit matching with DGT and OpenStreetMap priority, national DGT fixed/section-camera and INVIVE inventories, and an official Alicante diesel-price seed. Its passive USB toolkit records available sources and can opt in to GPS-coordinate logging for reproducible head-unit QA, without transmitting CAN or writing UART. Updates are local-first, scoped and independently traceable; emulator route QA covers GPS, limits, camera panels and fuel-seed behaviour.</p>
       <p>
         <img src="https://img.shields.io/badge/Android_API_30--35-Java-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android API 30 to 35 and Java">
-        <img src="https://img.shields.io/badge/Version-1.16.2-8B5CF6?style=flat-square" alt="Version 1.16.2">
+        <img src="https://img.shields.io/badge/Version-1.24.2-8B5CF6?style=flat-square" alt="Version 1.24.2">
         <img src="https://img.shields.io/badge/Jancar-Read_only_adapter-2563EB?style=flat-square" alt="Read-only Jancar adapter">
         <img src="https://img.shields.io/badge/Automotive-Passive_diagnostics-2563EB?style=flat-square" alt="Passive automotive diagnostics">
         <img src="https://img.shields.io/badge/Safety-No_CAN_writes-A3E635?style=flat-square" alt="No CAN writes">
         <a href="https://github.com/EMoyaP/BMW-E87-iDrive/actions"><img src="https://img.shields.io/github/actions/workflow/status/EMoyaP/BMW-E87-iDrive/android.yml?branch=main&style=flat-square&label=build" alt="Android build status"></a>
-        <a href="https://github.com/EMoyaP/BMW-E87-iDrive/releases/tag/v1.16.2"><img src="https://img.shields.io/badge/APK-v1.16.2-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Download iDrive v1.16.2 APK"></a>
+        <a href="https://github.com/EMoyaP/BMW-E87-iDrive/releases"><img src="https://img.shields.io/badge/APK-Latest_release-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Download the latest iDrive APK"></a>
       </p>
       <p><sub>Independent, non-commercial project; not affiliated with or endorsed by BMW AG. BMW, iDrive, the BMW emblem and model designations belong to their respective rights holders. See the repository <a href="https://github.com/EMoyaP/BMW-E87-iDrive/blob/main/NOTICE.md">notices and attributions</a>.</sub></p>
     </td>
